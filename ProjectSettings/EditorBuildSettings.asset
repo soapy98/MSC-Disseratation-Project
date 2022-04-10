@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Tanks/Scenes/Menus/Menu.unity
+    guid: 3712f57eddb96144e9980de7cea10f34
+  - enabled: 1
+    path: Assets/Tanks/Scenes/Menus/NameInput.unity
+    guid: c92d70d89f673c34194e6db8e169a61b
+  - enabled: 1
+    path: Assets/Tanks/Scenes/ServerCreate.unity
+    guid: b30b05fd6eca6a443b5cf6aff103502b
+  - enabled: 1
+    path: Assets/Tanks/Scenes/RoleTeamScene.unity
+    guid: 54bb255341e681842a7b2ec360802901
+  - enabled: 1
+    path: Assets/Tanks/Scenes/Game.unity
+    guid: 0c7ed4308069d97489cbbe403ae61f6f
+  - enabled: 1
+    path: Assets/Tanks/Scenes/GameOver.unity
+    guid: 001ed8694928a8d408fa882ada97132f
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0c8ca92d01beecd4093f492de3bc5a81, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 9586e98d1be726f4485debe09caea71e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1b2a617ae33b401468665aa4a929e679, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: fae2c04947d067643ab04648d164135b, type: 2}

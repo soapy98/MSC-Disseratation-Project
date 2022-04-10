@@ -1,0 +1,20 @@
+{
+    "name": "Tanks.Client",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1491147abca9d7d4bb7105af628b223e",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:e27407a94db689944a4d2032da1ed92c",
+        "GUID:1f4d40f5e4a05e64e9b596637963c0bc",
+        "GUID:255e067ad7348fc4682b169db21e7c05"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

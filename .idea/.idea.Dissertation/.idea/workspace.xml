@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cad48fc-a5e5-456b-b41c-cdff054bb358" name="Default Changelist" comment="With all assets and scripts">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/ConstructionLight_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/ConstructionLight_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/DryWallPainted_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/DryWallPainted_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/DryWall_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/DryWall_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Ground_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Ground_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Hammer_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Hammer_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/HardHat_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/HardHat_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Jigsaw_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Jigsaw_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/LightBulb_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/LightBulb_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Liquid_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Liquid_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Metal_Blue_Simple_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Metal_Blue_Simple_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Metal_Simple_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Metal_Simple_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/OBS_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/OBS_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Paint1G_WAnim_Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Paint1G_WAnim_Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/PaintBrush_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/PaintBrush_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/PaintLabel_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/PaintLabel_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Black_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Black_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Gray_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Gray_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Ridges_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Ridges_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Rough_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Rough_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Transparent.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Transparent.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_White_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_White_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Yellow_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Plastic_Yellow_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Strap_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Strap_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Stud_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Materials/Stud_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/ConstructionLight_Low.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/ConstructionLight_Low.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/Stud.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/Stud.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/Workbench.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/Workbench.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/Workbench_Low.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/Workbench_Low.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/Workshop_Set.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/Workshop_Set.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/brush_low.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/brush_low.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/hammer_low.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/hammer_low.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/jigsaw_low.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/jigsaw_low.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/magneticlevel_low.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/magneticlevel_low.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/paintbucket_low.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/paintbucket_low.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/safetygoggles_low.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/safetygoggles_low.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/safetyhat_low.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/safetyhat_low.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/small_plane.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Models/small_plane.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Prefabs/Construction Light Low.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Prefabs/Construction Light Low.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Prefabs/Paint Supplies.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Prefabs/Paint Supplies.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Prefabs/Props.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Prefabs/Props.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Prefabs/Workbench.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Prefabs/Workbench.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Prefabs/Workbench_LOD0.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Prefabs/Workbench_LOD0.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Prefabs/Workbench_LOD1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Prefabs/Workbench_LOD1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Prefabs/Workshop Set.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Prefabs/Workshop Set.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Shaders/Paint1G_WAnim_Shader.ShaderGraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Shaders/Paint1G_WAnim_Shader.ShaderGraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Concrete.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Concrete/Ground_Albedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Concrete/Ground_Albedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Concrete/Ground_MetallicOcculusionSmoothness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Concrete/Ground_MetallicOcculusionSmoothness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Concrete/Ground_Normal.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Concrete/Ground_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Drywall.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Drywall/DrywallPainted_Normal.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Drywall/DrywallPainted_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Drywall/Drywall_Albedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Drywall/Drywall_Albedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Drywall/Drywall_AlbedoSmoothness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Drywall/Drywall_AlbedoSmoothness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Drywall/Drywall_Normal.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Drywall/Drywall_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Metal.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Metal/Metal_Albedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Metal/Metal_Albedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Metal/Metal_MetallicSmoothness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Metal/Metal_MetallicSmoothness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Metal/Metal_Normal.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Metal/Metal_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/Elastic_MetallicOcculusionSmoothness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/Elastic_MetallicOcculusionSmoothness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/Elastic_Normal.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/Elastic_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/PlasticRidges_Albedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/PlasticRidges_Albedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/PlasticRidges_MetallicOcculusionSmoothness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/PlasticRidges_MetallicOcculusionSmoothness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/PlasticRidges_Normal.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/PlasticRidges_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/PlasticRough_Albedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/PlasticRough_Albedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/PlasticRough_MetallicOcculusionSmoothness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/PlasticRough_MetallicOcculusionSmoothness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/Plastic_AlbedoSmoothness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/Plastic_AlbedoSmoothness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/Plastic_Normal.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Plastic/Plastic_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Construction_Light.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Construction_Light/ConstructionLight_Albedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Construction_Light/ConstructionLight_Albedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Construction_Light/ConstructionLight_MetallicOcculusionSmoothness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Construction_Light/ConstructionLight_MetallicOcculusionSmoothness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Hammer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Hammer/Hammer_Albedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Hammer/Hammer_Albedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Hammer/Hammer_MetallicOcculusionSmoothness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Hammer/Hammer_MetallicOcculusionSmoothness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Hammer/Hammer_Normal.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Hammer/Hammer_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/HardHat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/HardHat/SafetyHat_Albedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/HardHat/SafetyHat_Albedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/HardHat/SafetyHat_MetallicOcculusionSmoothness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/HardHat/SafetyHat_MetallicOcculusionSmoothness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/HardHat/SafetyHat_Normal.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/HardHat/SafetyHat_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Jigsaw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Jigsaw/Jigsaw_Albedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Jigsaw/Jigsaw_Albedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Jigsaw/Jigsaw_MetallicOcculusionSmoothness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Jigsaw/Jigsaw_MetallicOcculusionSmoothness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Jigsaw/Jigsaw_Normal.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Jigsaw/Jigsaw_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/Paint1G_Albedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/Paint1G_Albedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/Paint1G_MetallicOcculusionRoughness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/Paint1G_MetallicOcculusionRoughness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/Paint1G_Normal.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/Paint1G_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/Paint5G_AlbedoSmoothness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/Paint5G_AlbedoSmoothness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/PaintAnimMask.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/PaintAnimMask.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/PaintLabel.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/PaintLabel.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/Paintbrush_Albedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/Paintbrush_Albedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/Paintbrush_MetallicOcculusionSmoothness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/Paintbrush_MetallicOcculusionSmoothness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/Paintbrush_Normal.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Props/Paint/Paintbrush_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Wood.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Wood/OBS_Albedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Wood/OBS_Albedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Wood/OBS_MetallicOcculusionSmoothness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Wood/OBS_MetallicOcculusionSmoothness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Wood/OBS_Normal.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Wood/OBS_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Wood/Plywood_Albedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Wood/Plywood_Albedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Wood/Plywood_MetallicOcculusionSmoothness.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Wood/Plywood_MetallicOcculusionSmoothness.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Wood/Plywood_Normal.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ExampleAssets/Textures/Wood/Plywood_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_floor_wood_01.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_floor_wood_01.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Usage/SharedAssets/Materials/SoccerWhite.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Usage/SharedAssets/Materials/SoccerWhite.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/VR/Prefabs/OVRPlayerController.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/VR/Prefabs/OVRPlayerController.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Credits.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Credits.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Editor/AxisInputDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Editor/AxisInputDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Editor/BaseInputDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Editor/BaseInputDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Editor/ButtonInputDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Editor/ButtonInputDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Editor/KeyInputDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Editor/KeyInputDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Editor/MouseButtonInputDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Editor/MouseButtonInputDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Editor/SimpleInput.Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Editor/SimpleInput.Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Example.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Example/BouncyMat.physicMaterial" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Example/BouncyMat.physicMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Example/EnvironmentMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Example/EnvironmentMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Example/ExamplePlayerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Example/ExamplePlayerController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Example/ExampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Example/ExampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Example/GlassesMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Example/GlassesMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Example/PlayerMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Example/PlayerMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/ExtraResources.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Prefabs/ArrowsAllDirections.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Prefabs/ArrowsAllDirections.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Prefabs/ArrowsHorizontal.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Prefabs/ArrowsHorizontal.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Prefabs/ArrowsVertical.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Prefabs/ArrowsVertical.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Prefabs/DpadMultiplePieces.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Prefabs/DpadMultiplePieces.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Prefabs/DpadOnePiece.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Prefabs/DpadOnePiece.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Prefabs/Joystick.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Prefabs/Joystick.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Prefabs/SteeringWheel.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Prefabs/SteeringWheel.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/README.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputKeyboard.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputKeyboard.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputMouse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputMouse.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputMoveGesture.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputMoveGesture.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputPinchGesture.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputPinchGesture.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputRotateGesture.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputRotateGesture.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputSwipeGesture.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputSwipeGesture.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputUIArrows.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/AxisInputUIArrows.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/Dpad.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/Dpad.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/Joystick.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/Joystick.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/SteeringWheel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/SteeringWheel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/Touchpad.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/AxisInputs/Touchpad.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/ButtonInputs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/ButtonInputs/ButtonInputKeyboard.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/ButtonInputs/ButtonInputKeyboard.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/ButtonInputs/ButtonInputSwipeGesture.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/ButtonInputs/ButtonInputSwipeGesture.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/ButtonInputs/ButtonInputUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/ButtonInputs/ButtonInputUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/BaseInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/BaseInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/ISimpleInputDraggable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/ISimpleInputDraggable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/ISimpleInputDraggableMultiTouch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/ISimpleInputDraggableMultiTouch.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/NonDrawingGraphic.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/NonDrawingGraphic.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/SelectivePointerInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/SelectivePointerInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/SimpleInputDragListener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/SimpleInputDragListener.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/SimpleInputMultiDragListener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/SimpleInputMultiDragListener.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/SimpleInputUtils.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/SimpleInputUtils.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/SwipeGestureBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/SwipeGestureBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/UnityInputProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/Core/UnityInputProvider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/KeyInputs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/KeyInputs/KeyInputKeyboard.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/KeyInputs/KeyInputKeyboard.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/KeyInputs/KeyInputSwipeGesture.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/KeyInputs/KeyInputSwipeGesture.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/KeyInputs/KeyInputUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/KeyInputs/KeyInputUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/MouseButtonInputs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/MouseButtonInputs/MouseButtonInputKeyboard.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/MouseButtonInputs/MouseButtonInputKeyboard.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/MouseButtonInputs/MouseButtonInputSwipeGesture.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/MouseButtonInputs/MouseButtonInputSwipeGesture.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/MouseButtonInputs/MouseButtonInputUI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/MouseButtonInputs/MouseButtonInputUI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/SimpleInput.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/SimpleInput.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/SimpleInputHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Scripts/SimpleInputHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/SimpleInput.Runtime.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/SimpleInput.Runtime.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/FlatDark.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/FlatDark/Joystick.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/FlatDark/Joystick/flatDark00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/FlatDark/Joystick/flatDark00.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/FlatDark/flatDark06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/FlatDark/flatDark06.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/FlatLight.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/FlatLight/Arrows.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/FlatLight/Arrows/flatLight22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/FlatLight/Arrows/flatLight22.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/FlatLight/Arrows/flatLight23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/FlatLight/Arrows/flatLight23.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/OtherSprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/OtherSprites/SteeringWheel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/OtherSprites/SteeringWheel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Arrows.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Arrows/shadedDark24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Arrows/shadedDark24.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Arrows/shadedDark25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Arrows/shadedDark25.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Arrows/shadedDark26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Arrows/shadedDark26.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Arrows/shadedDark27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Arrows/shadedDark27.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Buttons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Buttons/shadedDark00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Buttons/shadedDark00.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Buttons/shadedDark36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Buttons/shadedDark36.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Buttons/shadedDark45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/Buttons/shadedDark45.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/DpadOnePiece.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/DpadOnePiece/shadedDark04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/DpadOnePiece/shadedDark04.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/shadedDark11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedDark/shadedDark11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedLight.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedLight/DpadMultiplePieces.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedLight/DpadMultiplePieces/shadedLight03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedLight/DpadMultiplePieces/shadedLight03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedLight/DpadMultiplePieces/shadedLight05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedLight/DpadMultiplePieces/shadedLight05.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedLight/DpadMultiplePieces/shadedLight06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedLight/DpadMultiplePieces/shadedLight06.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedLight/DpadMultiplePieces/shadedLight10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/ShadedLight/DpadMultiplePieces/shadedLight10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/TransparentDark.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/TransparentDark/Arrows.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/TransparentDark/Arrows/transparentDark24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/TransparentDark/Arrows/transparentDark24.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/TransparentDark/Arrows/transparentDark25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/SimpleInput/Sprites/TransparentDark/Arrows/transparentDark25.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/OVRBuildConfig.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/OVRBuildConfig.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/OVRPlatformToolSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/OVRPlatformToolSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/normal_specular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/normal_specular.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/shadow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/translucency_gloss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/translucency_gloss.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/Help_Icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/Help_Icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/UniversalIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/UniversalIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Layout.wlt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Layout.wlt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Dissertation" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.0.2/InputSystem/InputSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0/Runtime/Core/NetworkManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.4/Scripts/Runtime/TMP_Text.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9244FB83-44E8-4288-877B-43B45B29C242/bf/ef821b91/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9244FB83-44E8-4288-877B-43B45B29C242/7c/23e5fda2/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8F9A7EA3-47A4-4FFD-AD6C-91B550598CCD/0d/f5576d6e/Action`3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9244FB83-44E8-4288-877B-43B45B29C242/8c/94eb78eb/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/State/ClientMainSceneState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9244FB83-44E8-4288-877B-43B45B29C242/87/e181fa9f/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/State/ClientNetworkSetUpState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/State/RoleTeamSelectData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkTankLifeState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/State/ClientNameInputState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Data/GameData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0/Runtime/Spawning/NetworkSpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkRoleEnergyState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Action/SpeedAction.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/RoleAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Entity/ServerBulletState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Entity/ServerMap.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/Driver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Entity/ServerMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/Engineer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/153C624F-4E72-438E-BF26-AAC81CAD6111/5b/fa23862e/NativeInputSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../unity-proc-gen/Assets/Scripts/Environment/FloorExit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/State/ServerMainSceneState.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/Gunner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Flow/Options/UnitBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@11.0.0/Runtime/RendererFeatures/RenderObjects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/ExecuteEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/33/9c62c6eb/NullReferenceException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/Shaders/Parallax/LightInput.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Net/GameStateRelayObj.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1798D6BC-CD2B-44B2-854B-E2FBCC2463B3/6d/f2edcfe4/Client.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkPlayerState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Game/Player/PlayerRole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.mlapi.contrib.transport.photon-realtime@3f0350ae57/Runtime/Photon/PhotonRealtime/Code/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Data/TransformRegister.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.mlapi.contrib.transport.photon-realtime@3f0350ae57/Runtime/PhotonRealtimeTransport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/State/ClientSceneOverState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/UITeamRoleSelectSeat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Game/UI/PartyHUD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8F9A7EA3-47A4-4FFD-AD6C-91B550598CCD/29/0becb9f5/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Game/UI/UIHealthLocalInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/69/c29f7ada/Environment.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkEnergyBall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/OVROverlay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Game/TeamObjectSet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/State/ServerGameOverState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/UIBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0/Runtime/NetworkVariable/Collections/NetworkList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Game/TankOnServer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/State/ServerMainSceneState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/96/0f37ea5d/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0/Runtime/Core/NetworkUpdateLoop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Game/ServerEnergyBall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/d9/857871d0/SystemException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9244FB83-44E8-4288-877B-43B45B29C242/93/cf3648b4/PlayerPrefs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkBulletState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/Shaders/RayMarch/Ray Marcher.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/6c/d2ab442e/IntPtr.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Player/PlayerSetUpResults.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@11.0.0/Runtime/Utilities/CoreUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Game/ClientPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9244FB83-44E8-4288-877B-43B45B29C242/45/8241d86b/StackTraceUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Game/ActionSender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkEnergyHealthState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Game/ClientSideMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Game/ClientPlayerGameLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8F9A7EA3-47A4-4FFD-AD6C-91B550598CCD/02/9ad8db89/Action.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Player/ServerPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Net/ServerNetworkPortal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C2BDFFCF-71E3-4EAF-A3D2-E3ECA1A45723/02/1bef3eb4/NetworkedBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/Platform/Samples/VrHoops/Scripts/BallEjector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0/Prototyping/NetworkTransform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9244FB83-44E8-4288-877B-43B45B29C242/ac/a209c7ef/Debug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0/Runtime/NetworkVariable/NetworkVariable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/6b/c905f7c5/Exception.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New folder/gpu-ray-tracing-in-unity/Library/PackageCache/com.unity.test-framework@1.0.13/UnityEngine.TestRunner/TestRunner/Callbacks/TestResultRenderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/Avatar/Scripts/OvrAvatarLocalDriver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/Avatar/Resources/Materials/AvatarPBRV2Simple.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New folder/gpu-ray-tracing-in-unity/Assets/RayTracingMaster.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/Avatar/Resources/Materials/AvatarSurfaceShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New folder/gpu-ray-tracing-in-unity/Assets/RayTracingShader.compute" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.mlapi.contrib.transport.photon-realtime@3f0350ae57/Runtime/Photon/PhotonRealtime/Code/LoadBalancingClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../New folder/gpu-ray-tracing-in-unity/Assets/AddShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/ClientEnergyBall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9244FB83-44E8-4288-877B-43B45B29C242/25/5f4493dc/UnitySynchronizationContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0/Runtime/Serialization/INetworkSerializable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/Avatar/Resources/Materials/Expressive/Avatar_PC_SingleComponentExpressive.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0/Runtime/Serialization/NetworkReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_SingleComponent.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F2625FD8-44AA-4DD5-B6A3-882F24F14D79/8d/94549f78/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_PC_SingleComponent.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRRaycaster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/Avatar/Resources/Materials/Version1.5/Avatar_Mobile_Loader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1798D6BC-CD2B-44B2-854B-E2FBCC2463B3/16/88b0170f/PlayModeView.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkRoleTypeState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Tank/ServerTankMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../MLAPI-Examples/Assets/Standard Assets/Utility/ForcedReset.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Action/EnergyHealthAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Tank/ServerTank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/98/5397944a/StackTrace.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/MenuController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/d3/67866e71/StringBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9244FB83-44E8-4288-877B-43B45B29C242/4f/454017cf/Application.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0/Runtime/SceneManagement/NetworkSceneManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/InputModules/BaseInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Data/Action/ActionInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/Shaders/Parallax/Parallax.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/State/GameOverData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/State/ClientRoleTeamState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@11.0.0/Shaders/Lit.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkBulletState.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRScreenFade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRInputModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.mlapi.contrib.transport.litenetlib@3f0350ae57/Runtime/LiteNetLib/INetEventListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9244FB83-44E8-4288-877B-43B45B29C242/07/aef1f12e/InvokableCall.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/44/395a09d5/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Data/NameGenerate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/ScriptableObjects/TransformVariable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/State/ClientMainMenuState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3908D5E0-FEE8-4C2E-A7B8-C2B65660568C/cf/5f3e1ed2/ISceneTemplatePipeline.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/INetworkMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Action/SpeedAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/351E49E2-A5BF-4FD6-BEAB-B458CE2255F3/b2/cbfbcdca/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Other/CanvasSet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Button.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/de/1e53ecf5/AttributeUsageAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../com.unity.multiplayer.samples.coop/Assets/BossRoom/Scripts/Server/ServerSwitchedDoor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C2BDFFCF-71E3-4EAF-A3D2-E3ECA1A45723/15/41bd79c7/NetworkedObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/c3/2a0bcf3a/EqualityComparer`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Reflection/Optimization/Action_5.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@11.0.0/Runtime/UniversalRenderPipeline.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/OVRCameraRig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Game/UI/PlayerNameUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/48020190-8ED9-4DDA-A056-1E2E6E0DDD4E/aa/64fc9274/Queue`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.mlapi.contrib.transport.photon-realtime@3f0350ae57/Runtime/Photon/PhotonRealtime/Code/Unity/Editor/Wizard/scripts/WizardWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9244FB83-44E8-4288-877B-43B45B29C242/8c/441dd119/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0/Runtime/Configuration/NetworkConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/State/SceneStateBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/LipSync/Models/RobotHead_TextureFlip/aa.png.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRNetwork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F2625FD8-44AA-4DD5-B6A3-882F24F14D79/86/65f947ee/Action`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Variables/VariablesSaver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9244FB83-44E8-4288-877B-43B45B29C242/c7/9662d481/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Tanks.Shared.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Data/NetworkName.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/75/b52d95d8/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/ProceduralMap/MarchingSquares.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/61/d0032e3b/Delegate.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../com.unity.multiplayer.samples.coop/Assets/BossRoom/Scripts/Client/Game/State/ClientCharSelectState.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9244FB83-44E8-4288-877B-43B45B29C242/16/dea858d5/Time.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Player/ServerEnergyBallState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/Tesselated Sphere/HullTess.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Action/Action.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/Tesselated Sphere/VertexData.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/Tesselated Sphere/DomainTess.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/Tesselated Sphere/SphereifyCube.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/ClientPreInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkTankState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/2b/49962c45/KeyValuePair`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/Avatar/Scripts/OvrAvatarSkinnedMeshRenderPBSV2Component.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4D909C80-E34F-4A76-896B-D88597D1591C/22/295bd398/Rigidbody.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@11.0.0/Runtime/UniversalAdditionalCameraData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Tanks.Client.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F2625FD8-44AA-4DD5-B6A3-882F24F14D79/a0/e33dcb6e/Action.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/UI/NetworkEnterPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0/Runtime/Core/NetworkObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/OVRManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/NetworkSetUpMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Drawing/Inspector/PropertyDrawers/IShaderPropertyDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Entity/IDamage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Action/ShootAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/UI/NetworkSetUpPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Net/Disconnect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0/Runtime/Core/NetworkBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/b0/6d84a8cf/Type.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Lighting.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/188DDA99-5B13-40D1-B97E-DAA998629BAC/03/88b82f99/ClientRoleSelectState.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0/Runtime/Hashing/HashCode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Selectable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/InputField.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0/Runtime/Logging/NetworkLog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/TankSpawnPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../NetworkPractise/Assets/Plasticine-master/Plasticine-master/Tests/TestScenes/TestBasicShapes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkPortal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.multiplayer.mlapi@3e3aef6aa0/Runtime/Transports/UNET/UNetTransport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/catlikecodingunitytutorials-basics-05-compute-shaders-9aad78142428/catlikecodingunitytutorials-basics-05-compute-shaders-9aad78142428/Assets/Scripts/GPUGraph.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/catlikecodingunitytutorials-basics-05-compute-shaders-9aad78142428/catlikecodingunitytutorials-basics-05-compute-shaders-9aad78142428/Assets/Scripts/FunctionLibrary.compute" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/State/ServerRoleTeamSelectState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9244FB83-44E8-4288-877B-43B45B29C242/07/159f5351/Graphics.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Action/TurnAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/catlikecodingunitytutorials-basics-05-compute-shaders-9aad78142428/catlikecodingunitytutorials-basics-05-compute-shaders-9aad78142428/Assets/Point/Point Surface GPU.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Input.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Net/ClientNetworkPortal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/673B70A5-8D0D-499E-A1D8-1C4B2B49A046/39/4b2ca6ae/IGameEventListen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Utilities/LinqUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Action/PlayActions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Slider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/DefaultControls.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/30/076778a9/Void.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Other/Name.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Game/Action/ActionRequestOfData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9244FB83-44E8-4288-877B-43B45B29C242/58/d3a5f5ff/SetupCoroutine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/695D1CC9-3CCA-4506-9C52-8C15C9FDD749/b7/000f4b3e/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Reflection/Optimization/Action_6.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Player/PlayersOnServer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/ServerGameOverState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Game/UI/UIHealthLocalInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Other/CanvasSet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Game/TankOnServer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkTankState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Game/Player/PlayerRole.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkPlayerState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Game/TeamObjectSet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Server/State/ServerMainSceneState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/Shaders/Parallax/LightInput.cginc" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/Shaders/RayMarch/BumpMapShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/RoleAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Action/TurnAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Action/SpeedAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/collisiontest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/ProceduralMap/MarchingSquares.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Tank/ServerTankMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Oculus/Avatar/Resources/Materials/AvatarPBRV2Simple.shader" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/Tesselated Sphere/VertexData.cginc" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/Tesselated Sphere/SphereifyCube.shader" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/Shaders/RayMarch/Ray Marcher.shader" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Action/ShootAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/TankSpawnPoint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/StressTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Game/ActionSender.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Game/ClientPlayerGameLogic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Game/ClientSideMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Net/Disconnect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/Driver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/Engineer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/Gunner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/UI/NetworkEnterPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/UI/NetworkSetUpPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Action/Action.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Entity/IDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Entity/ServerBulletState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Data/GameData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Data/Action/ActionInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/State/GameOverData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Server/State/ServerGameOverState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkPortal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Net/ServerNetworkPortal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Net/ClientNetworkPortal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/ServerEnergyBall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Game/ClientPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/ClientEnergyBall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Player/ServerEnergyBallState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkEnergyBall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/Tesselated Sphere/DomainTess.cginc" />
+        <option value="$PROJECT_DIR$/Assets/Tanks/Scripts/Procedural/Tesselated Sphere/HullTess.cginc" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uP2CF41UTw8VCuhiEUt2z0QNk5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cad48fc-a5e5-456b-b41c-cdff054bb358" name="Default Changelist" comment="" />
+      <created>1624552781243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624552781243</updated>
+      <workItem from="1624552817274" duration="13324000" />
+      <workItem from="1624630270806" duration="1915000" />
+      <workItem from="1624901466469" duration="2032000" />
+      <workItem from="1624995568604" duration="3726000" />
+      <workItem from="1625314918578" duration="2492000" />
+      <workItem from="1625503325074" duration="1749000" />
+      <workItem from="1625673309260" duration="3375000" />
+      <workItem from="1625856566675" duration="559000" />
+      <workItem from="1625917180019" duration="8851000" />
+      <workItem from="1626538598798" duration="1248000" />
+      <workItem from="1626617210917" duration="3163000" />
+      <workItem from="1628517577518" duration="9878000" />
+      <workItem from="1628685684443" duration="8231000" />
+      <workItem from="1628770041514" duration="5840000" />
+      <workItem from="1628856115209" duration="6515000" />
+      <workItem from="1630419395967" duration="22752000" />
+      <workItem from="1630582342853" duration="3084000" />
+      <workItem from="1630597630016" duration="16864000" />
+      <workItem from="1630760295035" duration="35147000" />
+      <workItem from="1631270660258" duration="2138000" />
+      <workItem from="1631276301540" duration="10167000" />
+      <workItem from="1631536482328" duration="1452000" />
+      <workItem from="1631619548012" duration="606000" />
+      <workItem from="1631706692593" duration="1510000" />
+      <workItem from="1631798971512" duration="1234000" />
+      <workItem from="1632218840146" duration="9152000" />
+      <workItem from="1632258985458" duration="2337000" />
+      <workItem from="1632262955301" duration="2000" />
+      <workItem from="1632262962948" duration="231000" />
+      <workItem from="1632263200150" duration="1786000" />
+      <workItem from="1632266363886" duration="637000" />
+      <workItem from="1632314756307" duration="13444000" />
+      <workItem from="1632479364851" duration="10597000" />
+      <workItem from="1632764901285" duration="33825000" />
+      <workItem from="1632924854657" duration="37356000" />
+      <workItem from="1633042985795" duration="748000" />
+      <workItem from="1633361605616" duration="21106000" />
+      <workItem from="1633446629649" duration="9213000" />
+      <workItem from="1633456955139" duration="7808000" />
+      <workItem from="1633527547054" duration="17232000" />
+      <workItem from="1633610138809" duration="21896000" />
+      <workItem from="1633703660164" duration="692000" />
+      <workItem from="1633957781949" duration="8444000" />
+      <workItem from="1634040040932" duration="1386000" />
+      <workItem from="1634596206966" duration="22183000" />
+      <workItem from="1634688738254" duration="202000" />
+      <workItem from="1634753873305" duration="20042000" />
+      <workItem from="1634827090868" duration="11855000" />
+      <workItem from="1635338013601" duration="11021000" />
+      <workItem from="1635445804859" duration="7666000" />
+      <workItem from="1635511263074" duration="8692000" />
+      <workItem from="1635601814277" duration="9163000" />
+      <workItem from="1635627234838" duration="4643000" />
+      <workItem from="1635961919816" duration="5541000" />
+      <workItem from="1635972664838" duration="14603000" />
+      <workItem from="1636040402640" duration="787000" />
+      <workItem from="1636297234393" duration="17305000" />
+      <workItem from="1636563352080" duration="17475000" />
+      <workItem from="1636656288585" duration="8796000" />
+      <workItem from="1637089822073" duration="16378000" />
+      <workItem from="1637162722578" duration="5434000" />
+      <workItem from="1637197862794" duration="4812000" />
+      <workItem from="1637264418589" duration="30440000" />
+      <workItem from="1637588536695" duration="24028000" />
+      <workItem from="1637672911970" duration="33149000" />
+      <workItem from="1638203823261" duration="78675000" />
+      <workItem from="1638583474269" duration="16727000" />
+      <workItem from="1638820789334" duration="3907000" />
+      <workItem from="1638885914964" duration="49584000" />
+      <workItem from="1639499413010" duration="54363000" />
+      <workItem from="1639747700868" duration="27078000" />
+      <workItem from="1639851289894" duration="1748000" />
+      <workItem from="1639959476481" duration="4447000" />
+      <workItem from="1640031475499" duration="32979000" />
+      <workItem from="1640184725540" duration="20695000" />
+      <workItem from="1640270952342" duration="31884000" />
+      <workItem from="1640611126524" duration="43261000" />
+      <workItem from="1640713306189" duration="11193000" />
+      <workItem from="1641215611731" duration="17784000" />
+      <workItem from="1641308653611" duration="14068000" />
+      <workItem from="1641666807516" duration="12441000" />
+      <workItem from="1642081222968" duration="26096000" />
+      <workItem from="1642434960531" duration="35820000" />
+      <workItem from="1642521855550" duration="23286000" />
+      <workItem from="1642633114309" duration="67185000" />
+      <workItem from="1643063275647" duration="7118000" />
+      <workItem from="1643124910257" duration="32119000" />
+      <workItem from="1643169439848" duration="29392000" />
+      <workItem from="1643265899467" duration="1756000" />
+      <workItem from="1643836249760" duration="4981000" />
+      <workItem from="1645186558074" duration="720000" />
+    </task>
+    <task id="LOCAL-00001" summary="Nearly finsihed">
+      <created>1638218012622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638218012622</updated>
+    </task>
+    <task id="LOCAL-00002" summary="With all assets">
+      <created>1638896884985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638896884985</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nearly finsihed" />
+    <MESSAGE value="With all assets" />
+    <option name="LAST_COMMIT_MESSAGE" value="With all assets" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1640187509629">
+      <screen x="1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="111" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1640187509629" />
+    <state width="740" height="553" key="DebuggerActiveHint" timestamp="1643225812989">
+      <screen x="1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state width="697" height="438" key="DebuggerActiveHint/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643055188402" />
+    <state width="740" height="553" key="DebuggerActiveHint/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643225812989" />
+    <state width="592" height="438" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1635975302000" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1639065167423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1639065167423" />
+    <state width="1493" height="122" key="GridCell.Tab.0.bottom" timestamp="1643845574250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574250" />
+    <state width="1877" height="122" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643216909974" />
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635988544516" />
+    <state width="1493" height="122" key="GridCell.Tab.0.center" timestamp="1643845574250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.0.center/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574250" />
+    <state width="1877" height="122" key="GridCell.Tab.0.center/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643216909974" />
+    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1635988544516" />
+    <state width="1493" height="122" key="GridCell.Tab.0.left" timestamp="1643845574250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.0.left/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574250" />
+    <state width="1877" height="122" key="GridCell.Tab.0.left/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643216909974" />
+    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1635988544516" />
+    <state width="1493" height="122" key="GridCell.Tab.0.right" timestamp="1643845574250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.0.right/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574250" />
+    <state width="1877" height="122" key="GridCell.Tab.0.right/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643216909974" />
+    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1635988544516" />
+    <state width="1493" height="122" key="GridCell.Tab.1.bottom" timestamp="1643845574250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574250" />
+    <state width="1877" height="122" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643221619178" />
+    <state width="1493" height="198" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635988544516" />
+    <state width="1493" height="122" key="GridCell.Tab.1.center" timestamp="1643845574250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.1.center/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574250" />
+    <state width="1877" height="122" key="GridCell.Tab.1.center/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643221619178" />
+    <state width="1493" height="198" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1635988544516" />
+    <state width="1493" height="122" key="GridCell.Tab.1.left" timestamp="1643845574250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.1.left/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574250" />
+    <state width="1877" height="122" key="GridCell.Tab.1.left/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643221619174" />
+    <state width="1493" height="198" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1635988544516" />
+    <state width="1493" height="122" key="GridCell.Tab.1.right" timestamp="1643845574250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.1.right/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574250" />
+    <state width="1877" height="122" key="GridCell.Tab.1.right/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643221619178" />
+    <state width="1493" height="198" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1635988544516" />
+    <state width="1493" height="122" key="GridCell.Tab.2.bottom" timestamp="1643845574251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574251" />
+    <state width="1877" height="122" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643216909696" />
+    <state width="1493" height="198" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635988544516" />
+    <state width="1493" height="122" key="GridCell.Tab.2.center" timestamp="1643845574250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.2.center/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574250" />
+    <state width="1877" height="122" key="GridCell.Tab.2.center/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643216909696" />
+    <state width="1493" height="198" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1635988544516" />
+    <state width="1493" height="122" key="GridCell.Tab.2.left" timestamp="1643845574250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.2.left/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574250" />
+    <state width="1877" height="122" key="GridCell.Tab.2.left/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643216909696" />
+    <state width="1493" height="198" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1635988544516" />
+    <state width="1493" height="122" key="GridCell.Tab.2.right" timestamp="1643845574250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.2.right/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574250" />
+    <state width="1877" height="122" key="GridCell.Tab.2.right/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643216909696" />
+    <state width="1493" height="198" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1635988544516" />
+    <state width="1493" height="122" key="GridCell.Tab.3.bottom" timestamp="1643845574251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.3.bottom/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574251" />
+    <state width="1877" height="122" key="GridCell.Tab.3.bottom/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643216909697" />
+    <state width="1493" height="198" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635988544517" />
+    <state width="1493" height="122" key="GridCell.Tab.3.center" timestamp="1643845574251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.3.center/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574251" />
+    <state width="1877" height="122" key="GridCell.Tab.3.center/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643216909697" />
+    <state width="1493" height="198" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1635988544517" />
+    <state width="1493" height="122" key="GridCell.Tab.3.left" timestamp="1643845574251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.3.left/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574251" />
+    <state width="1877" height="122" key="GridCell.Tab.3.left/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643216909696" />
+    <state width="1493" height="198" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1635988544516" />
+    <state width="1493" height="122" key="GridCell.Tab.3.right" timestamp="1643845574251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="122" key="GridCell.Tab.3.right/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643845574251" />
+    <state width="1877" height="122" key="GridCell.Tab.3.right/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643216909697" />
+    <state width="1493" height="198" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1635988544517" />
+    <state x="499" y="136" key="RiderGenerateDialog" timestamp="1635987379250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="136" key="RiderGenerateDialog/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1635628253473" />
+    <state x="499" y="136" key="RiderGenerateDialog/0.0.1536.824@0.0.1536.824" timestamp="1635987379250" />
+    <state x="2364" y="93" key="RollbackChangesDialog" timestamp="1639507307820">
+      <screen x="1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state x="355" y="124" key="RollbackChangesDialog/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1637678960938" />
+    <state x="2364" y="93" key="RollbackChangesDialog/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1639507307820" />
+    <state x="355" y="124" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1635975099571" />
+    <state x="93" y="93" width="1350" height="638" key="ShowDiffWithBranchDialog" timestamp="1639065167423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="ShowDiffWithBranchDialog/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1639065167423" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1639794111590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1639794111590" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1639794136090">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1639794136090" />
+    <state x="670" y="230" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1638896932103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="670" y="230" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1638896932103" />
+    <state x="2683" y="190" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1638217961367" />
+    <state x="0" y="0" width="1550" height="876" key="dock-window-1" timestamp="1643216831126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2776" y="22" width="987" height="781" key="dock-window-1/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1642982280698" />
+    <state x="0" y="0" width="1550" height="876" key="dock-window-1/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643216831126" />
+    <state x="2191" y="220" width="987" height="781" key="dock-window-2" timestamp="1642977140221">
+      <screen x="1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state x="2191" y="220" width="987" height="781" key="dock-window-2/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1642977140221" />
+    <state x="2804" y="-73" width="784" height="832" maximized="true" key="dock-window-2/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1640628293597" />
+    <state x="122" y="-11" width="930" height="882" maximized="true" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1640236034456" />
+    <state x="2343" y="-75" width="1941" height="1040" maximized="true" key="dock-window-3" timestamp="1642992487217">
+      <screen x="1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state x="2343" y="-75" width="1941" height="1040" maximized="true" key="dock-window-3/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1642992487217" />
+    <state x="1913" y="-64" width="974" height="1047" key="dock-window-3/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1642985679284" />
+    <state x="1920" y="-64" width="1553" height="832" key="dock-window-4" timestamp="1642981496579">
+      <screen x="1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="-64" width="1553" height="832" key="dock-window-4/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1642981496579" />
+    <state x="2430" y="-89" width="736" height="609" maximized="true" key="dock-window-4/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1638459509943" />
+    <state x="2091" y="231" width="1553" height="832" key="dock-window-5" timestamp="1642981496580">
+      <screen x="1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state x="2091" y="231" width="1553" height="832" key="dock-window-5/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1642981496580" />
+    <state x="165" y="-51" width="1385" height="586" key="dock-window-5/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1638461196881" />
+    <state x="2451" y="172" key="run.anything.popup" timestamp="1642989049651">
+      <screen x="1920" y="-64" width="1920" height="1040" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1642526113481" />
+    <state x="2451" y="172" key="run.anything.popup/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1642989049651" />
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1635988060574" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1643842213349">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.-64.1920.1040@0.0.1536.824" timestamp="1643842213349" />
+    <state x="2458" y="119" width="840" height="856" key="search.everywhere.popup/0.0.1536.824/1920.-64.1920.1040@1920.-64.1920.1040" timestamp="1643266136014" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Other/Procedural/Shapes/ProceduralCube.cs</url>
+          <line>99</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Other/Procedural/Shapes/ProceduralCube.cs" initialLine="175" />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/State/RoleTeamSelectData.cs</url>
+          <line>102</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/State/RoleSelectData.cs" initialLine="125" />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Menus/UITeamSelectSeat.cs</url>
+          <line>46</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Menus/TeamSelect.cs" initialLine="45" />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Menus/UITeamSelectSeat.cs</url>
+          <line>44</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Menus/TeamSelect.cs" initialLine="44" />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Game/Player/ClientPlayer.cs</url>
+          <line>49</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Game/Player/ClientPlayer.cs" initialLine="52" />
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkTankState.cs</url>
+          <line>104</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkTankState.cs" initialLine="102">
+            <startOffsets>
+              <option value="3600" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3683" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/ClientEnergyBall.cs</url>
+          <line>12</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/ClientEnergyBall.cs" initialLine="10">
+            <startOffsets>
+              <option value="380" />
+            </startOffsets>
+            <endOffsets>
+              <option value="431" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Game/Player/ClientPlayer.cs</url>
+          <line>48</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Game/Player/ClientPlayer.cs" initialLine="48" />
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkBulletState.cs</url>
+          <line>15</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Network/NetworkBulletState.cs" initialLine="15">
+            <startOffsets>
+              <option value="636" />
+            </startOffsets>
+            <endOffsets>
+              <option value="672" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Game/UI/PartyHUD.cs</url>
+          <line>56</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Shared/Game/UI/PartyHUD.cs" initialLine="56">
+            <startOffsets>
+              <option value="1950" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1970" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/RoleAction.cs</url>
+          <line>47</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/RoleAction.cs" initialLine="22">
+            <startOffsets>
+              <option value="1545" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1583" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Game/ClientPlayer.cs</url>
+          <line>84</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Game/ClientPlayer.cs" initialLine="81">
+            <startOffsets>
+              <option value="3215" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3265" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/RoleAction.cs</url>
+          <line>14</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/RoleAction.cs" initialLine="13">
+            <startOffsets>
+              <option value="297" />
+            </startOffsets>
+            <endOffsets>
+              <option value="311" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Action/TurnAction.cs</url>
+          <line>29</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Action/TurnAction.cs" initialLine="27">
+            <startOffsets>
+              <option value="781" />
+            </startOffsets>
+            <endOffsets>
+              <option value="866" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/RoleAction.cs</url>
+          <line>33</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Client/Roles/RoleAction.cs" initialLine="33">
+            <startOffsets>
+              <option value="1001" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1063" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Tank/ServerTankMovement.cs</url>
+          <line>107</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Tanks/Scripts/Server/Game/Tank/ServerTankMovement.cs" initialLine="107">
+            <startOffsets>
+              <option value="2850" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2869" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="442" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

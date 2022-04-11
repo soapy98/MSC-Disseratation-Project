@@ -22,4 +22,5 @@ The second sphere was procedurally generated through the use of a raymarhed algo
 
 ## Raytracing
 A parallax shader was utilised which deployed a ray tracing algorithm to produce a bumpy effect. A further use was the creation of a raymarched sphere contained in a Sphere without a mesh.
+
 ![image](https://user-images.githubusercontent.com/53182878/162799498-629c9801-a2f1-403d-9e82-d279d31e5b61.png)

@@ -1,6 +1,6 @@
 # MSC-Disseratation-Project
 
-The projects aim was to create VR tanks game with networking, raytracing and procedural generation.
+The projects aim was to create a VR tanks game with networking, raytracing and procedural generation.
 
 The project was created in Unity with the use of the Oculus package as a Oculus Quest was used. Each feature stated was implemented to some extent with a simple game but interacting features. 
 
